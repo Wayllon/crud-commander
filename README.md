@@ -10,4 +10,4 @@
 ### 🚀 Como executar
 
 - teste com o comando `npm test`
-- execute com o comando `node commander.js <options>
+- execute com o comando `node commander.js <options>`
